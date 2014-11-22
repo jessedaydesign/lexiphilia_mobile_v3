@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+body{
+  background-color: #F5F4EF;
+}
+
+.head-box{
+  width: 100%;
+  background-color: #797575;
+  background-color: #404041;
+  background-color: #4B4B4B;
+
+}
+
+.title{
+  font-family: 'Droid Serif', serif;
+  text-align: center;
+  font-size: 6.5vw;
+   text-shadow: none;
+  color: white;
+  color: #EDEDED;
+  font-weight: 100;
+  padding-top: 3vw;
+  padding-bottom: 1vw;
+}
+
+.sub-title{
+  font-family: 'Droid Serif', serif;
+  text-shadow: none;
+  text-align: center;
+  font-size: 4vw;
+  text-shadow: none;
+  color: white;
+  color: #EDEDED;
+  font-weight: 300;
+  padding-bottom: 2vw;
+  border-bottom: groove 4px #DEDEDE;
+}
+
+.box{
+  /*margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;*/
+  
+}
+
+.word{
+  font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;
+  font-size: 19vw;
+  text-shadow: none;
+  text-align: center;
+  /*border: solid 2px #797575;
+  color: #4D4D4D;*/
+  color: white;
+  background-color: #F2F2F2;
+  line-height: 1.1;
+  padding-bottom: 10px;
+}
+
+.composite-word{
+  font-family: 'Droid Serif', serif;
+  text-shadow: none;
+  text-align: center;
+  font-size: 6.2vw;
+  font-weight: 300;
+  padding-top: 45px;
+  color: #4A4946;
+  background-color: #F5F4EF;
+  border-top: groove 4px #DEDEDE;
+}
+
+.composite-sentence{
+  font-family: 'Droid Serif', serif;
+  text-shadow: none;
+  text-align: center;
+  font-size: 5vw;
+  font-weight: 300;
+  padding-top: 25px;
+  color:#747274;
+  background-color: #F5F4EF;
+  padding-bottom: 35px;
+}
+
+.random-button{
+  position: relative;
+  font-family: 'Droid Serif', serif;
+  font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: center;
+  background-color: #404041;
+  background-color: #4B4B4B;
+  color: white;
+  color: #EDEDED;
+  font-weight: 100;
+  padding-top: 6vw;
+  padding-bottom: 16vw;
+  border-top: groove 4px #DEDEDE;
+  
+}
+
+.button{
+  border:solid 2px #EDEDED;
+  text-shadow: none;
+  width: 40%;
+  margin: 0 auto;
+  border-radius: 40px;
+  font-size: 5vw;
+  padding: 1vw;
+}
+
+.button:hover{
+  background-color: #EDEDED;
+  color: #4B4B4B;
+}
+
+.my-twitter-share-button{
+  position: absolute;
+  top: 10vw;
+  right: -40vw;
+  width: 100%;
+
+}
+
+
+ .red{
+  background-color: red;
+ }
+
+ .yellow{
+  background-color: yellow;
+ }
+
+ .blue{
+  background-color: blue;
+ }
+
+ .green{
+  background-color: green;
+ }
