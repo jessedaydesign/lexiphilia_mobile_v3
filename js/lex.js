@@ -120,7 +120,8 @@ function update(p, r, s){
 			$(".composite-sentence").text() +
 			". Make your own Greek words at ";
 	
-	 twitterTextUrl = "https://twitter.com/share?text=" + tweet; 
+	 twitterTextUrl = "https://twitter.com/share?text=" + tweet + 
+	 					"http://lexiphilia.com"; 
 
 	$(".my-twitter-share-button").attr("href", twitterTextUrl);
 	console.log(twitterTextUrl);

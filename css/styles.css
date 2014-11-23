@@ -120,11 +120,16 @@ body{
 
 .my-twitter-share-button{
   position: absolute;
-  top: 10vw;
+  top: 6.5vw;
   right: -40vw;
   width: 100%;
 
 }
+
+.my-twitter-share-button img{
+  width: 10vw;
+}
+
 
 
  .red{
