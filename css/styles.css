@@ -118,16 +118,20 @@ body{
   color: #4B4B4B;
 }
 
+.twitter-box{
+  position: relative;
+}
+
 .my-twitter-share-button{
   position: absolute;
-  top: 6.5vw;
-  right: -40vw;
+  top: -24vw;
+  right: -85vw;
   width: 100%;
 
 }
 
 .my-twitter-share-button img{
-  width: 10vw;
+  width: 9vw;
 }
 
 
